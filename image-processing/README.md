@@ -16,7 +16,7 @@ This is a pure C implementation of image mosaic compared with OpenMP and CUDA ac
 Download the repository and change directory to the workspace
 
 ```sh
-git clone https://github.com/yzheng51/image-processing.git
+git clone https://github.com/ashutoshgkp/image-processing.git
 cd image-processing
 ```
 
