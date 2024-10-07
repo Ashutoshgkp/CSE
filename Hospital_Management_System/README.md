@@ -2,7 +2,7 @@
 <b>Link</b> : https://github.com/armanmalik4274/Hospital_Management_System
 
 <pre>
-Name: Arman Malik
+Name: Ashutosh Mishra
 </pre>
 
 Hospital Management System made for Sem 5 DBMS Course Project.<br>
